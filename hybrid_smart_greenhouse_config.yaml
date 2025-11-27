@@ -1,0 +1,4 @@
+dropout: 0.2
+filters: 32
+lstm_units: 96
+optimizer: rmsprop

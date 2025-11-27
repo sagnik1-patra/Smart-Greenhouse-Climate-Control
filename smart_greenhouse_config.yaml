@@ -1,0 +1,4 @@
+epochs: 60
+model: CNN + LSTM
+optimizer: adam
+scaler: MinMaxScaler

@@ -1,0 +1,4 @@
+dropout: 0.4
+filters: 48
+lstm_units: 96
+optimizer: adam
