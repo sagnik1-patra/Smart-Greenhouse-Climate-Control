@@ -74,6 +74,11 @@ The model predicts optimal crop/environment mapping based on greenhouse conditio
 
 The architecture is hybrid enough to handle multi-sensor greenhouse signals.
 
+
+![Confusion Matrix Heatmap](hybrid_smart_greenhouse_comparison_graph.png)
+
+
+
 ---
 
 ## 🔬 Hybrid Optimization Strategy
@@ -138,10 +143,6 @@ R² > 0.97 → excellent model fit
 
 🧪 Visualization Outputs
 Generated Graphs
-
-![Confusion Matrix Heatmap](hybrid_smart_greenhouse_comparison_graph.png)
-
-
 🔥 Correlation Heatmap
 
 📉 Training vs Validation Loss Curve
